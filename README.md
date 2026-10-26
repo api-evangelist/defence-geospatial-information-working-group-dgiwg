@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Defence Geospatial Information Working Group (DGIWG) is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- http://www.dgiwg.org
+Defence Geospatial Information Working Group (DGIWG) is an international consortium that develops and promotes standards for the exchange of geospatial information among defence and security organisations. It facilitates interoperability, supports NATO and allied forces, and provides guidance on data models, services, and best practices for geospatial data sharing. The group engages with industry, academia, and government to advance capabilities in mapping, terrain analysis, and situational awareness.
+
+**Areas:** Company · Geospatial · Defence · Standards · Interoperability
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](http://www.dgiwg.org)
+- [Blog](https://dgiwg.org/blog/)
+- [Privacy policy](https://dgiwg.org/privacy-policy/)
+- [GitHub](https://github.com/DGIWG)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/defence-geospatial-information-working-group-dgiwg/](https://apis.io/providers/defence-geospatial-information-working-group-dgiwg/).
